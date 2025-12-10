@@ -157,19 +157,6 @@ Add titles, adjust layout, apply theme, and export the dashboard.
 * **Data Modeling Tools**
 * **CSV / Excel datasets**
 
----
-
-## 🖼 Screenshots
-
-(Add your exported dashboard images here after uploading)
-
-```
-![Dashboard Page 1](image1.png)
-![Dashboard Page 2](image2.png)
-```
-
----
-
 ## 🎯 Conclusion
 
 This project demonstrates strong skills in:
@@ -182,13 +169,4 @@ This project demonstrates strong skills in:
 
 The UPI Analysis Dashboard provides meaningful insights into transaction behavior and can be extended for financial analytics, fraud detection, or customer segmentation.
 
----
-
-If you want, I can also create:
-
-✅ Short GitHub description
-✅ Repository tags
-✅ Attractive project banner
-✅ LinkedIn post text
-
-Just tell me!
+- THE PDF LINK OF THE DASHBOARD OF THE PROJECT : https://drive.google.com/drive/folders/1mNQd3LHZcgkKnGxDo45K6JC2JDYGnoOK?usp=sharing
